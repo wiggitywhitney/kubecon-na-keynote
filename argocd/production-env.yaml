@@ -9,6 +9,6 @@ spec:
     server: ''
   source:
     path: production
-    repoURL: 'https://github.com/salaboy/kubecon-production'
+    repoURL: 'https://github.com/wiggitywhitney/kubecon-production'
     targetRevision: HEAD
   project: default
